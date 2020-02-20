@@ -29,3 +29,14 @@ This repository contains the answers to Part 1, 2, 3, and 4.
 - [ ] Add remote and push to your respective repositories.
 
 ## Part 4 - Web Server Programming
+
+### Task 1. 
+```sql
+--This is my PostgreSQL script
+SELECT COUNT(*) “Number of Jobs” 
+FROM jobs; 
+```
+```js
+//This is my Node.js and express script
+
+```
