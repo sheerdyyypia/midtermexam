@@ -24,9 +24,9 @@ This repository contains the answers to Part 1, 2, 3, and 4.
     expressworks
     hr
     ```
-- [ ] Switch and move your previous scripts to the newly created branches.
-- [ ] Update README.md and document every progress you've made.
-- [ ] Add remote and push to your respective repositories.
+- [x] Switch and move your previous scripts to the newly created branches.
+- [x] Update README.md and document every progress you've made.
+- [x] Add remote and push to your respective repositories.
 
 ## Part 4 - Web Server Programming
 
